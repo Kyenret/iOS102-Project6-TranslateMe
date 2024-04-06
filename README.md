@@ -2,7 +2,7 @@
 
 Submitted by: **Kyenret Yakubu Ayuba**
 
-**TranslateMe** is an app that users can enter a word, phrase or sentence, a button to translate to a different language. Users can also have history of translations stored and the history of translations can be erased.
+**TranslateMe** is an app that users can enter a word, phrase or sentence to translate to a different language. Users can also have history of translations stored and the history of translations can be erased.
 
 Time spent: **4** hours spent in total
 
