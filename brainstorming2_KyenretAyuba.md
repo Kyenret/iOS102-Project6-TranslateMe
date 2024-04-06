@@ -78,6 +78,6 @@ Challenges:
 
 
 **Top 2-3 Ideas**
-Weather App
-Recipe Organizer and Meal Planner
-Health management app
+1. Weather App
+2. Recipe Organizer and Meal Planner
+3. Health management app
